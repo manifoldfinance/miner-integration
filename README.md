@@ -8,7 +8,7 @@ version 0.2.0
 
 > Permissioned Mempool and low latency RPC Layer
 
-## OVerview
+## Overview
 
 This onboarding guide is supplementary, please refer to the packet distributed to your miner operator
 
